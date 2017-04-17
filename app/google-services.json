@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159165188006",
+    "firebase_url": "https://fir-storagetutorial-10982.firebaseio.com",
+    "project_id": "fir-storagetutorial-10982",
+    "storage_bucket": "fir-storagetutorial-10982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159165188006:android:1e402ef3688f0068",
+        "android_client_info": {
+          "package_name": "mine.com.meagain.firebasestoragetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159165188006-8b24g34fikdhove6frua8u50hdo03hhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mine.com.meagain.firebasestoragetutorial",
+            "certificate_hash": "754880319ba3afb1254df254a62d3afa0ef3ca4a"
+          }
+        },
+        {
+          "client_id": "159165188006-dlv3t7dkok67j24ffs411bsvcg9p8j6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXNxYVd3JZdALBxxk24BGTTJ82QOorqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159165188006-dlv3t7dkok67j24ffs411bsvcg9p8j6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
